@@ -4,7 +4,6 @@
 
 <h3>📫 Contact</h3>
 <p>
-  Email: <b>rodaina.mohammed@outlook.com</b><br/>
   LinkedIn: <a href="https://www.linkedin.com/in/rodaina-othman">rodaina-othman</a><br/>
   GitHub: <a href="https://github.com/rodainaelhady">rodainaelhady</a>
 </p>
