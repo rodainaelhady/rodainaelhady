@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/> Hey! Welcome to my GitHub.</h1>
 
-<p>I'm <b>Rodaina Mohammed ElHady</b>, AI & Web Designer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009645.png" width="13"/ <b>Egypt</b>. Currently exploring web development, penetration testing, and AI projects.</p>
+<p>I'm <b>Rodaina Mohammed ElHady</b>, AI & Web Designer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009645.png" width="13"/> <b>Egypt</b>. Currently exploring web development, penetration testing, and AI projects.</p>
 
 <h3>Things I work with</h3>
 <p>
