@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/> Hey! Welcome to my GitHub</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="40"/> Hey! Welcome to my GitHub</h1>
 
 <p>I'm <b>Rodaina Mohammed ElHady</b>, a passionate student and aspiring IT professional from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009645.png" width="13"/> <b>Giza, Egypt</b>. I explore web development, penetration testing, AI, and IT support projects.</p>
 
