@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/rodainaelhady/AI-multimedia-tools"><b>AI Multimedia Tools</b></a></td>
+      <td><a href="https://github.com/rodainaelhady/Tech-Ease-Windows-"><b>Help Desk Assistent</b></a></td>
       <td>Python + CTK automation for system maintenance: startup management, speed tests, cleanup.</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@
       <td>QR-based check-in system with face/signature recognition; auto-generates QR codes from Excel.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/rodainaelhady/Info-Gathering-Tool"><b>Info Gathering Tool</b></a></td>
+      <td><a href="https://github.com/rodainaelhady/Info-Recon"><b>Info Gathering Tool</b></a></td>
       <td>Automates WHOIS, subdomains, paths, and email collection using Python + CTK.</td>
     </tr>
   </tbody>
